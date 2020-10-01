@@ -12,3 +12,5 @@ Modified in github remote repository
 changed in the branch file //test for commit first update
 changed in the branch file //test for commit second update
 changes with branch
+
+another test 2
