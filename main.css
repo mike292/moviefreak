@@ -1,0 +1,27 @@
+
+/* Border line grows inwards like a padding */
+* {
+    box-sizing: border-box; 
+}
+
+body{
+    width: 100%;
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333;
+}
+
+.header{
+    width: 100%;
+    margin: 0px;
+    padding: 20px 50px;
+    background-color: #606060;
+    color: #fafafa;
+}
+.content{
+    margin: 10px 10%;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #a9a9a9;
+    border: 2px solid grey;
+}
